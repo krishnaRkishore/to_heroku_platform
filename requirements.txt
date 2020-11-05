@@ -13,10 +13,8 @@ backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
 beautifulsoup4==4.9.1
-bitarray @ file:///tmp/build/80754af9/bitarray_1594753876414/work
 bkcharts==0.2
 bleach==3.1.5
-bokeh @ file:///tmp/build/80754af9/bokeh_1593187602660/work
 boto==2.49.0
 Bottleneck==1.3.2
 brotlipy==0.7.0
@@ -26,7 +24,6 @@ cffi==1.14.0
 chardet==3.0.4
 chromedriver==2.24.1
 click==7.1.2
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
 clyent==1.2.2
 colorama==0.4.3
 conda==4.8.3
@@ -37,14 +34,10 @@ contextlib2==0.6.0.post1
 cryptography==2.9.2
 cssselect==1.1.0
 cycler==0.10.0
-Cython @ file:///tmp/build/80754af9/cython_1594831566883/work
 cytoolz==0.10.1
-dask @ file:///tmp/build/80754af9/dask-core_1594156306305/work
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distlib==0.3.1
-distributed @ file:///tmp/build/80754af9/distributed_1594750293818/work
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -62,30 +55,20 @@ greenlet==0.4.16
 gunicorn==20.0.4
 h5py==2.10.0
 HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1593446406207/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
 isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
-jedi @ file:///tmp/build/80754af9/jedi_1592841866100/work
 jeepney==0.4.3
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema==3.2.0
-keyring @ file:///tmp/build/80754af9/keyring_1593109721646/work
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
-lxml @ file:///tmp/build/80754af9/lxml_1594826779415/work
 MarkupSafe==1.1.1
-matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1592846008246/work
 mccabe==0.6.1
 mistune==0.8.4
 mkl-fft==1.1.0
@@ -107,12 +90,9 @@ notebook==6.0.3
 numba==0.50.1
 numexpr==2.7.1
 numpy==1.18.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 olefile==0.46
 opencv-python==4.4.0.44
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
-pandas @ file:///tmp/build/80754af9/pandas_1592841659173/work
 pandocfilters==1.4.2
 parse==1.18.0
 parso==0.7.0
@@ -125,7 +105,6 @@ pep8==1.7.1
 pexels-api==1.0.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///tmp/build/80754af9/pillow_1594307295532/work
 pipenv==2020.8.13
 pkginfo==1.5.0.1
 pluggy==0.13.1
